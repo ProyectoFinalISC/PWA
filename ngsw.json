@@ -1,0 +1,125 @@
+{
+  "configVersion": 1,
+  "timestamp": 1654212094603,
+  "index": "https://ProyectoFinalISC.github.io/PWA/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://ProyectoFinalISC.github.io/PWA/favicon.ico",
+        "https://ProyectoFinalISC.github.io/PWA/index.html",
+        "https://ProyectoFinalISC.github.io/PWA/main.a9f414fce9783255.js",
+        "https://ProyectoFinalISC.github.io/PWA/manifest.webmanifest",
+        "https://ProyectoFinalISC.github.io/PWA/polyfills.f280a8b15a86a4af.js",
+        "https://ProyectoFinalISC.github.io/PWA/runtime.f4a02506af37cb8f.js",
+        "https://ProyectoFinalISC.github.io/PWA/styles.e5a53dec70df27ce.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://ProyectoFinalISC.github.io/PWA/assets/icons/icon-128x128.png",
+        "https://ProyectoFinalISC.github.io/PWA/assets/icons/icon-144x144.png",
+        "https://ProyectoFinalISC.github.io/PWA/assets/icons/icon-152x152.png",
+        "https://ProyectoFinalISC.github.io/PWA/assets/icons/icon-192x192.png",
+        "https://ProyectoFinalISC.github.io/PWA/assets/icons/icon-384x384.png",
+        "https://ProyectoFinalISC.github.io/PWA/assets/icons/icon-512x512.png",
+        "https://ProyectoFinalISC.github.io/PWA/assets/icons/icon-72x72.png",
+        "https://ProyectoFinalISC.github.io/PWA/assets/icons/icon-96x96.png",
+        "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos.rar",
+        "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/heroes.txt",
+        "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/imagenes/A-64.png",
+        "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/imagenes/img/antman.png",
+        "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/imagenes/img/aquaman.png",
+        "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/imagenes/img/background-batman.jpg",
+        "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/imagenes/img/background-superman.jpg",
+        "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/imagenes/img/batman.png",
+        "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/imagenes/img/construccion.jpg",
+        "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/imagenes/img/daredevil.png",
+        "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/imagenes/img/dc.jpg",
+        "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/imagenes/img/dr.png",
+        "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/imagenes/img/flash.png",
+        "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/imagenes/img/hulk.png",
+        "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/imagenes/img/iron.png",
+        "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/imagenes/img/linterna-verde.png",
+        "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/imagenes/img/marvel.jpg",
+        "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/imagenes/img/mujer.png",
+        "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/imagenes/img/spiderman.png",
+        "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/imagenes/img/viuda.png",
+        "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/imagenes/img/wolverine.png",
+        "https://ProyectoFinalISC.github.io/PWA/background-superman.513240588d7a6fb8.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://ProyectoFinalISC.github.io/PWA/assets/icons/icon-128x128.png": "5de0812462b3af0bf0b9018d4b8ac883f58484f0",
+    "https://ProyectoFinalISC.github.io/PWA/assets/icons/icon-144x144.png": "5b884d1c4e7399a61669df5ed2a6be4ca9a5119d",
+    "https://ProyectoFinalISC.github.io/PWA/assets/icons/icon-152x152.png": "f6a3804a21e772056a8be29104aa435dde210b99",
+    "https://ProyectoFinalISC.github.io/PWA/assets/icons/icon-192x192.png": "8233d4a29ad1f6bc2e7b05ee4f9459328918c188",
+    "https://ProyectoFinalISC.github.io/PWA/assets/icons/icon-384x384.png": "f4352edcf1928c92837ac27ddb157906b2d00997",
+    "https://ProyectoFinalISC.github.io/PWA/assets/icons/icon-512x512.png": "f0f64a37048cc1aabf0dcfb353718082d45a1781",
+    "https://ProyectoFinalISC.github.io/PWA/assets/icons/icon-72x72.png": "69c5eb1c394e791efacbb16fa1035952991e86e5",
+    "https://ProyectoFinalISC.github.io/PWA/assets/icons/icon-96x96.png": "0be7c028696c959441bdd14123a583f131f4dc38",
+    "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos.rar": "c55c9ba0229ee2400b11ead0acdaddae43ed0c97",
+    "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/heroes.txt": "1f28d189d8d95fe613a00e759f4f172e0a90eecd",
+    "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/imagenes/A-64.png": "e22d6898af44efbc2cb66383d1947d07088b35e3",
+    "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/imagenes/img/antman.png": "42893a2592b7c96c9fd9306dc160d0c227b85ba6",
+    "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/imagenes/img/aquaman.png": "6f888c972601d1e3795727399241409a39325a19",
+    "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/imagenes/img/background-batman.jpg": "627abfd000ab17e5f0e44fd0a6d00e7e39da77cf",
+    "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/imagenes/img/background-superman.jpg": "349c55a528122bb3216b9b77002eaa353e99c5d2",
+    "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/imagenes/img/batman.png": "c79ba6ec0ff094183c56563c156eecb47c3b9969",
+    "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/imagenes/img/construccion.jpg": "d9d5e2ff24326852b0f0a319a66fb70d6956d43a",
+    "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/imagenes/img/daredevil.png": "97bcb75391a39b9c56122e2f4eabe10feede01f5",
+    "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/imagenes/img/dc.jpg": "c5736878c0fdf41b396a74ba1460a118d5d781b1",
+    "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/imagenes/img/dr.png": "a7c424f4846e85d4bc06d6f8cbbbb8971936b853",
+    "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/imagenes/img/flash.png": "be1594adc4f65683f2dfdf4fc0332c339bba6ddc",
+    "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/imagenes/img/hulk.png": "af2ed8c7d4c25db3239204c7edee8d31fed2986b",
+    "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/imagenes/img/iron.png": "02479e5a4278f53b4c41a6c3656cba9640455ee8",
+    "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/imagenes/img/linterna-verde.png": "0943883c4a1e710be7f16b110c8f76ce84649c67",
+    "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/imagenes/img/marvel.jpg": "67d1f07e47b39e13869ff43b4a3d29b22c6d98c2",
+    "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/imagenes/img/mujer.png": "721db3a3c2b60e89e9bf43cd9609633b146bfd5a",
+    "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/imagenes/img/spiderman.png": "c22d275f2bea490cd1cc2828c65b5f5bfef1946a",
+    "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/imagenes/img/viuda.png": "a81a8840ffab711934d37b8b2c1dc3fe64be6a90",
+    "https://ProyectoFinalISC.github.io/PWA/assets/img/recursos/imagenes/img/wolverine.png": "c39dac4245c9b7c2f49c6bb380cf439df8f4c5c2",
+    "https://ProyectoFinalISC.github.io/PWA/background-superman.513240588d7a6fb8.jpg": "349c55a528122bb3216b9b77002eaa353e99c5d2",
+    "https://ProyectoFinalISC.github.io/PWA/favicon.ico": "57d8b1e4e2602b34f88d580a9f92f0f59ab2a03c",
+    "https://ProyectoFinalISC.github.io/PWA/index.html": "b52fc129d039afd48701999888be6a8e3bf7dc1c",
+    "https://ProyectoFinalISC.github.io/PWA/main.a9f414fce9783255.js": "dacd39a7d974174c6988fc6b131076d5979cc4e6",
+    "https://ProyectoFinalISC.github.io/PWA/manifest.webmanifest": "c6c7dab55e10b4268800837bff8e4d5ed62e435d",
+    "https://ProyectoFinalISC.github.io/PWA/polyfills.f280a8b15a86a4af.js": "59d01b8f64dfbca0206a5e7d6cab1c03fddeb347",
+    "https://ProyectoFinalISC.github.io/PWA/runtime.f4a02506af37cb8f.js": "d91d76faf585971f9b4188cae567ba75d376ef40",
+    "https://ProyectoFinalISC.github.io/PWA/styles.e5a53dec70df27ce.css": "c5fb9912d8935d7b3bf9f8d497cc079019399b99"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
